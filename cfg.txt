@@ -1,0 +1,4 @@
+A->BCD
+B->hB|#
+C->Cg|g|Ch|i
+D->AB|#
